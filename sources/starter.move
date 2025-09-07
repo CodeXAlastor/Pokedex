@@ -1,4 +1,4 @@
-module starter::practica_sui {
+/*module starter::practica_sui {
     use std::debug::print;
     use std::string::utf8;
 
@@ -9,5 +9,7 @@ module starter::practica_sui {
     #[test]
     fun prueba() {
         practica();
-    }
+    } 
 }
+
+*/
